@@ -12,6 +12,6 @@ int main()
     cout << "B: ";
     cin >> B;
     S = A + B;
-    cout << "Сумма чисел А и B равна " << S << endl;
+    cout << "Сумма чисел А и B равна " << S << endl; // выдаются сумма чисел A и B
     return 0;
 }
